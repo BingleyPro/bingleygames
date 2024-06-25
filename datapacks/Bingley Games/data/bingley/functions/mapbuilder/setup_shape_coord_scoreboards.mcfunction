@@ -134,13 +134,13 @@ scoreboard players set 18 hollow_circle_y1 64
 scoreboard players set 18 hollow_circle_z1 -64
 
 scoreboard players set 18 hollow_circle_x2 -1067
-scoreboard players set 18 hollow_circle_y2 74
+scoreboard players set 18 hollow_circle_y2 64
 scoreboard players set 18 hollow_circle_z2 -81
 
 # --- --- ---
 
 scoreboard players set 19 hollow_circle_x1 -1086
-scoreboard players set 19 hollow_circle_y1 -64
+scoreboard players set 19 hollow_circle_y1 64
 scoreboard players set 19 hollow_circle_z1 -83
 
 scoreboard players set 19 hollow_circle_x2 -1068
@@ -154,7 +154,7 @@ scoreboard players set 20 hollow_circle_y1 64
 scoreboard players set 20 hollow_circle_z1 -103
 
 scoreboard players set 20 hollow_circle_x2 -1069
-scoreboard players set 20 hollow_circle_y2 62
+scoreboard players set 20 hollow_circle_y2 64
 scoreboard players set 20 hollow_circle_z2 -122
 
 # --- --- ---
@@ -204,7 +204,7 @@ scoreboard players set 25 hollow_circle_y1 64
 scoreboard players set 25 hollow_circle_z1 -218
 
 scoreboard players set 25 hollow_circle_x2 -1074
-scoreboard players set 25 hollow_circle_y2 62
+scoreboard players set 25 hollow_circle_y2 64
 scoreboard players set 25 hollow_circle_z2 -242
 
 # --- --- ---
