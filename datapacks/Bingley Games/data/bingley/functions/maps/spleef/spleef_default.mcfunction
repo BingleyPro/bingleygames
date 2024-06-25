@@ -1,0 +1,2 @@
+$execute positioned $(x) $(y) $(z) run function bingley:mapbuilder/place_hollow_disk {x: ~, y: ~, z: ~, diameter: 15, block: "minecraft:stone"}
+$execute positioned $(x) $(y) $(z) run function bingley:mapbuilder/place_hollow_disk {x: ~, y: ~1, z: ~, diameter: 15, block: "minecraft:stone"}
