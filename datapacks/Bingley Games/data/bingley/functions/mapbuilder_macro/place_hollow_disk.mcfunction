@@ -11,7 +11,7 @@ scoreboard players operation height mapBuildAt -= height2 mapBuildAt
 
 $scoreboard players set width mapBuildAt $(z2)
 $scoreboard players set width2 mapBuildAt $(z1)
-scoreboard players operation width mapBuildAt += width2 mapBuildAt
+scoreboard players operation width2 mapBuildAt -= width mapBuildAt
 
 $scoreboard players set x4 mapBuildAt $(x3)
 execute store result storage bingley:mapbuilder/replace_shape x3 int 1 run scoreboard players get x4 mapBuildAt
@@ -23,7 +23,7 @@ scoreboard players operation y4 mapBuildAt += height mapBuildAt
 
 $scoreboard players set z4 mapBuildAt $(z3)
 execute store result storage bingley:mapbuilder/replace_shape z3 int 1 run scoreboard players get z4 mapBuildAt
-scoreboard players operation z4 mapBuildAt += width mapBuildAt
+scoreboard players operation z4 mapBuildAt += width2 mapBuildAt
 
 execute store result storage bingley:mapbuilder/replace_shape x4 int 1 run scoreboard players get x4 mapBuildAt
 execute store result storage bingley:mapbuilder/replace_shape y4 int 1 run scoreboard players get y4 mapBuildAt
