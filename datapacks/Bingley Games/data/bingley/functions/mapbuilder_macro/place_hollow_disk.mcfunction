@@ -29,4 +29,6 @@ execute store result storage bingley:mapbuilder/replace_shape x4 int 1 run score
 execute store result storage bingley:mapbuilder/replace_shape y4 int 1 run scoreboard players get y4 mapBuildAt
 execute store result storage bingley:mapbuilder/replace_shape z4 int 1 run scoreboard players get z4 mapBuildAt
 
+data modify storage bingley:mapbuilder/replace_shape block set value "minecraft:stone"
+
 function bingley:mapbuilder_macro/replace_blocks_with with storage bingley:mapbuilder/replace_shape
