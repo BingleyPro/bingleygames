@@ -273,252 +273,250 @@ scoreboard players set 5 filled_circle_z2
 
 # --- --- ---
 
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
+scoreboard players set 6 filled_circle_x1 
+scoreboard players set 6 filled_circle_y1 
+scoreboard players set 6 filled_circle_z1 
 
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
-
-# --- --- ---
-
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
-
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
+scoreboard players set 6 filled_circle_x2 
+scoreboard players set 6 filled_circle_y2 
+scoreboard players set 6 filled_circle_z2 
 
 # --- --- ---
 
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
+scoreboard players set 7 filled_circle_x1 
+scoreboard players set 7 filled_circle_y1 
+scoreboard players set 7 filled_circle_z1 
 
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
-
-# --- --- ---
-
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
-
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
+scoreboard players set 7 filled_circle_x2 
+scoreboard players set 7 filled_circle_y2 
+scoreboard players set 7 filled_circle_z2 
 
 # --- --- ---
 
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
+scoreboard players set 8 filled_circle_x1 
+scoreboard players set 8 filled_circle_y1 
+scoreboard players set 8 filled_circle_z1 
 
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
-
-# --- --- ---
-
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
-
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
+scoreboard players set 8 filled_circle_x2 
+scoreboard players set 8 filled_circle_y2 
+scoreboard players set 8 filled_circle_z2 
 
 # --- --- ---
 
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
+scoreboard players set 9 filled_circle_x1 
+scoreboard players set 9 filled_circle_y1 
+scoreboard players set 9 filled_circle_z1 
 
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
-
-# --- --- ---
-
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
-
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
+scoreboard players set 9 filled_circle_x2 
+scoreboard players set 9 filled_circle_y2 
+scoreboard players set 9 filled_circle_z2 
 
 # --- --- ---
 
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
+scoreboard players set 10 filled_circle_x1 
+scoreboard players set 10 filled_circle_y1 
+scoreboard players set 10 filled_circle_z1 
 
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
-
-# --- --- ---
-
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
-
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
+scoreboard players set 10 filled_circle_x2 
+scoreboard players set 10 filled_circle_y2 
+scoreboard players set 10 filled_circle_z2 
 
 # --- --- ---
 
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
+scoreboard players set 11 filled_circle_x1 
+scoreboard players set 11 filled_circle_y1 
+scoreboard players set 11 filled_circle_z1 
 
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
-
-# --- --- ---
-
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
-
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
+scoreboard players set 11 filled_circle_x2 
+scoreboard players set 11 filled_circle_y2 
+scoreboard players set 11 filled_circle_z2 
 
 # --- --- ---
 
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
+scoreboard players set 12 filled_circle_x1 
+scoreboard players set 12 filled_circle_y1 
+scoreboard players set 12 filled_circle_z1 
 
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
-
-# --- --- ---
-
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
-
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
+scoreboard players set 12 filled_circle_x2 
+scoreboard players set 12 filled_circle_y2 
+scoreboard players set 12 filled_circle_z2 
 
 # --- --- ---
 
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
+scoreboard players set 13 filled_circle_x1 
+scoreboard players set 13 filled_circle_y1 
+scoreboard players set 13 filled_circle_z1 
 
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
-
-# --- --- ---
-
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
-
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
+scoreboard players set 13 filled_circle_x2 
+scoreboard players set 13 filled_circle_y2 
+scoreboard players set 13 filled_circle_z2 
 
 # --- --- ---
 
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
+scoreboard players set 14 filled_circle_x1 
+scoreboard players set 14 filled_circle_y1 
+scoreboard players set 14 filled_circle_z1 
 
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
-
-# --- --- ---
-
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
-
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
+scoreboard players set 14 filled_circle_x2 
+scoreboard players set 14 filled_circle_y2 
+scoreboard players set 14 filled_circle_z2 
 
 # --- --- ---
 
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
+scoreboard players set 15 filled_circle_x1 
+scoreboard players set 15 filled_circle_y1 
+scoreboard players set 15 filled_circle_z1 
 
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
-
-# --- --- ---
-
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
-
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
+scoreboard players set 15 filled_circle_x2 
+scoreboard players set 15 filled_circle_y2 
+scoreboard players set 15 filled_circle_z2 
 
 # --- --- ---
 
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
+scoreboard players set 16 filled_circle_x1 
+scoreboard players set 16 filled_circle_y1 
+scoreboard players set 16 filled_circle_z1 
 
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
-
-# --- --- ---
-
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
-
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
+scoreboard players set 16 filled_circle_x2 
+scoreboard players set 16 filled_circle_y2 
+scoreboard players set 16 filled_circle_z2 
 
 # --- --- ---
 
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
+scoreboard players set 17 filled_circle_x1 
+scoreboard players set 17 filled_circle_y1 
+scoreboard players set 17 filled_circle_z1 
 
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
-
-# --- --- ---
-
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
-
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
+scoreboard players set 17 filled_circle_x2 
+scoreboard players set 17 filled_circle_y2 
+scoreboard players set 17 filled_circle_z2 
 
 # --- --- ---
 
-scoreboard players set 5 filled_circle_x1 
-scoreboard players set 5 filled_circle_y1 
-scoreboard players set 5 filled_circle_z1 
+scoreboard players set 18 filled_circle_x1 
+scoreboard players set 18 filled_circle_y1 
+scoreboard players set 18 filled_circle_z1 
 
-scoreboard players set 5 filled_circle_x2 
-scoreboard players set 5 filled_circle_y2 
-scoreboard players set 5 filled_circle_z2 
+scoreboard players set 18 filled_circle_x2 
+scoreboard players set 18 filled_circle_y2 
+scoreboard players set 18 filled_circle_z2 
 
 # --- --- ---
+
+scoreboard players set 19 filled_circle_x1 
+scoreboard players set 19 filled_circle_y1 
+scoreboard players set 19 filled_circle_z1 
+
+scoreboard players set 19 filled_circle_x2 
+scoreboard players set 19 filled_circle_y2 
+scoreboard players set 19 filled_circle_z2 
+
+# --- --- ---
+
+scoreboard players set 20 filled_circle_x1 
+scoreboard players set 20 filled_circle_y1 
+scoreboard players set 20 filled_circle_z1 
+
+scoreboard players set 20 filled_circle_x2 
+scoreboard players set 20 filled_circle_y2 
+scoreboard players set 20 filled_circle_z2 
+
+# --- --- ---
+
+scoreboard players set 21 filled_circle_x1 
+scoreboard players set 21 filled_circle_y1 
+scoreboard players set 21 filled_circle_z1 
+
+scoreboard players set 21 filled_circle_x2 
+scoreboard players set 21 filled_circle_y2 
+scoreboard players set 21 filled_circle_z2 
+
+# --- --- ---
+
+scoreboard players set 22 filled_circle_x1 
+scoreboard players set 22 filled_circle_y1 
+scoreboard players set 22 filled_circle_z1 
+
+scoreboard players set 22 filled_circle_x2 
+scoreboard players set 22 filled_circle_y2 
+scoreboard players set 22 filled_circle_z2 
+
+# --- --- ---
+
+scoreboard players set 23 filled_circle_x1 
+scoreboard players set 23 filled_circle_y1 
+scoreboard players set 23 filled_circle_z1 
+
+scoreboard players set 23 filled_circle_x2 
+scoreboard players set 23 filled_circle_y2 
+scoreboard players set 23 filled_circle_z2 
+
+# --- --- ---
+
+scoreboard players set 24 filled_circle_x1 
+scoreboard players set 24 filled_circle_y1 
+scoreboard players set 24 filled_circle_z1 
+
+scoreboard players set 24 filled_circle_x2 
+scoreboard players set 24 filled_circle_y2 
+scoreboard players set 24 filled_circle_z2 
+
+# --- --- ---
+
+scoreboard players set 25 filled_circle_x1 
+scoreboard players set 25 filled_circle_y1 
+scoreboard players set 25 filled_circle_z1 
+
+scoreboard players set 25 filled_circle_x2 
+scoreboard players set 25 filled_circle_y2 
+scoreboard players set 25 filled_circle_z2 
+
+# --- --- ---
+
+scoreboard players set 26 filled_circle_x1 
+scoreboard players set 26 filled_circle_y1 
+scoreboard players set 26 filled_circle_z1 
+
+scoreboard players set 26 filled_circle_x2 
+scoreboard players set 26 filled_circle_y2 
+scoreboard players set 26 filled_circle_z2 
+
+# --- --- ---
+
+scoreboard players set 27 filled_circle_x1 
+scoreboard players set 27 filled_circle_y1 
+scoreboard players set 27 filled_circle_z1 
+
+scoreboard players set 27 filled_circle_x2 
+scoreboard players set 27 filled_circle_y2 
+scoreboard players set 27 filled_circle_z2 
+
+# --- --- ---
+
+scoreboard players set 28 filled_circle_x1 
+scoreboard players set 28 filled_circle_y1 
+scoreboard players set 28 filled_circle_z1 
+
+scoreboard players set 28 filled_circle_x2 
+scoreboard players set 28 filled_circle_y2 
+scoreboard players set 28 filled_circle_z2 
+
+# --- --- ---
+
+scoreboard players set 29 filled_circle_x1 
+scoreboard players set 29 filled_circle_y1 
+scoreboard players set 29 filled_circle_z1 
+
+scoreboard players set 29 filled_circle_x2 
+scoreboard players set 29 filled_circle_y2 
+scoreboard players set 29 filled_circle_z2 
+
+# --- --- ---
+
+scoreboard players set 30 filled_circle_x1 
+scoreboard players set 30 filled_circle_y1 
+scoreboard players set 30 filled_circle_z1 
+
+scoreboard players set 30 filled_circle_x2 
+scoreboard players set 30 filled_circle_y2 
+scoreboard players set 30 filled_circle_z2 
