@@ -16,7 +16,7 @@ $data modify storage bingley:mapbuilder/place_shape z3 set value $(z)
 #execute store result storage bingley:mapbuilder/place_shape x4 int 1 run scoreboard players operation 
 
 # ===< Get block type to place >===
-# $data modify storage bingley:mapbuilder/place_shape block set value "{Name:\"$(block)\"}"
+$data modify storage bingley:mapbuilder/place_shape block set value "$(block)"
 
 # ===< Call macro function >===
 function bingley:mapbuilder_macro/place_hollow_disk with storage bingley:mapbuilder/place_shape
