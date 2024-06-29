@@ -1,6 +1,6 @@
 scoreboard players remove seconds timer 1
 
-execute if score cancel timer matches 1 run return
+execute if score cancel timer matches 1 run return run say e
 
 execute if score seconds timer matches 0 run execute if score minutes timer matches 0 run execute if score hours timer matches 0 run return run function bingley:timer/timer_end
 
