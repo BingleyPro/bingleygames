@@ -1,2 +1,2 @@
-# Finalise game start
-say "Game Started!"
+clear @a[tag=!dev]
+$function bingley:game/start_$(game)

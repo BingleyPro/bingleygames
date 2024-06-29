@@ -1,0 +1,1 @@
+scoreboard objectives add mapBuildAt dummy "Map Location"

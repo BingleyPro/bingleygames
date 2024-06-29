@@ -1,0 +1,1 @@
+execute if score type timer matches 0 run function bingley:timer/start_game_timer

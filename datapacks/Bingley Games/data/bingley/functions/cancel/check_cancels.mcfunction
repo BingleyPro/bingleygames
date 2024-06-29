@@ -1,1 +1,1 @@
-execute if score * cancels matches 1.. run function bingley:voting/cancel_game
+execute as @a[scores={cancels=1..}] if score @s cancels matches 1.. run function bingley:voting/cancel_game
