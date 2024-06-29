@@ -15,5 +15,7 @@ $scoreboard players set type timer $(type)
 # 0 = nothing
 # 1 = show every $(amount) seconds
 
+scoreboard players set cancel timer 0
+
 execute if score type timer matches 1 run tellraw @a [{"score":{"name":"hours","objective":"timer"}},{"text":":"},{"score":{"name":"minutes","objective":"timer"}},{"text":":"},{"score":{"name":"seconds","objective":"timer"}}]
 schedule function bingley:timer/timer_tick 1s
