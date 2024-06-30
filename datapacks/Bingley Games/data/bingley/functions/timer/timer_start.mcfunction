@@ -5,6 +5,8 @@ $scoreboard players set hours timer $(hours)
 $scoreboard players set type timer $(type)
 # Types:
 # 1 = timer before game start after decision
+# 2 = game timer
+# 3 = countdown
 
 scoreboard players set cancel timer 0
 
