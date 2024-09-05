@@ -1,5 +1,13 @@
+
 # The Bingley Games
 **The Bingley Games** is a Minecraft Java map for 1.20.6+ that has lots of fun minigames and customisation. It's currently still a WIP.
+
+## How to Test
+Download the zip file from: https://github.com/BingleyPro/bingleygames/releases/tag/v0.0.1-alpha
+Extract the file into your Minecraft 1.20.6 saves folder. To find your saves folder with the vanilla Minecraft launcher, here's a third-party guide: https://www.howtogeek.com/207484/how-to-find-your-minecraft-saved-games-folder/
+
+## Image Gallery
+![enter image description here](https://github.com/BingleyPro/bingleygames/blob/main/gallery/image(1).png?raw=true)
 
 ## Development Mods
 _None of the below mods are actually required to run the world._
@@ -23,3 +31,4 @@ _None of the below mods are actually required to run the world._
 - Zoomify (2.14.0+1.20.6)
 
 I'm also using Fabric 1.20.6 with loader version 0.15.11.
+
